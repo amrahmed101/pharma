@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fontsgstaticcom/s/poppins/v20/pxiGyp8kv8JHgFVrJJLufntF_3670021.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fontsgstaticcom/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA_4849778.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fontsgstaticcom/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw_7667793.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fontsgstaticcom/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA_4522082.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fontsgstaticcom/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA_4325490.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fontsgstaticcom/s/rubik/v23/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U5f4c_2359402.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../fontsgstaticcom/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWUUw_1704046.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fontsgstaticcom/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFWUUw_7798907.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  src: url(../fontsgstaticcom/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FWUUw_1704015.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fontsgstaticcom/s/rubik/v23/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FWUUw_655433.ttf) format('truetype');
+}

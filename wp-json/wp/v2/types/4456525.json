@@ -1,0 +1,1 @@
+{"description":"","hierarchical":true,"name":"Pages","slug":"page","taxonomies":[],"rest_base":"pages","rest_namespace":"wp\/v2","_links":{"collection":[{"href":"https:\/\/2022.egylts.org\/wp-json\/wp\/v2\/types"}],"wp:items":[{"href":"https:\/\/2022.egylts.org\/wp-json\/wp\/v2\/pages"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
